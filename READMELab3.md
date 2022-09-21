@@ -51,3 +51,16 @@ Tempo de inicialização 0.464758
 Tempo de processamento 226.051016
 Tempo de finalização 0.185112667
 Retorno do diff foi vazio.
+
+Ganho com 2 processadores:
+500x500: 3,047858/1,785994 = 1,706533169
+1000x1000: 47,1446873/24,472909 = 1,926403081
+2000x2000: 443,264467/226,700886667 = 1,955283341
+
+--não alcançou os valores teoricos--
+
+Comparação(valores teoricos):
+500x500:1,9926103921957687
+1000x1000:1,9983110016729928
+2000x2000:1,999370470320596
+
